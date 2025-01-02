@@ -4,7 +4,7 @@
   
 2. [pa2: Triangle and z-buffering](https://github.com/Bathui/Games101-hw/tree/main/pa2)
    - Rasterization of triangles
-   - Z-buffering and antialiasing
+   - Z-buffering and antialiasing with MSAA
   
 3. [pa3: Pipeline and Shading](https://github.com/Bathui/Games101-hw/tree/main/pa3)
    - Blinn-Phong shading model
